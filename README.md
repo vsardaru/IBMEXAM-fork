@@ -1,1 +1,1 @@
-# IBMEXAM
+# IBMEXAMFixed typo in README
